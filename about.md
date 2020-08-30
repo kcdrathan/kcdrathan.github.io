@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hi guys,
+My name is Chandra Deep Rathan K and I'm a currently an undergraduate student at VIT University, Chennai. I'm from Ponnur, Andhra Pradesh.
 
